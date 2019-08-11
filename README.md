@@ -24,7 +24,7 @@ catkin_make
 ```
 Change the directory:
 ```
-cd src/scripts
+cd src/Home_Service_Robot/scripts
 ```
 Run the bash file:
 ```
