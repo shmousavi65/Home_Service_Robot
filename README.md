@@ -14,7 +14,6 @@ mkdir -p catkin_ws/src
 Initialize the workspace and clone this repository:
 ```
 cd catkin_ws/src
-catkin_init_worksapce
 git clone https://github.com/shmousavi65/Home_Service_Robot.git
 ```
 Build the project:
